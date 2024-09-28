@@ -1,0 +1,3 @@
+a='ashish reddy'
+print(a.upper())
+print(a.split(" ")
